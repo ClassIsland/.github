@@ -26,7 +26,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 - **[ClassIsland](https://github.com/ClassIsland/ClassIsland/)** - ClassIsland 应用主仓库
 - **[ManagementServer](https://github.com/ClassIsland/ManagementServer)** - ClassIsland 集控服务器
-- [ClassIsland-net6](https://github.com/ClassIsland/ClassIsland-net6) - ClassIsland .NET6 移植版（适用于 Windows）
+- [ClassIsland-net6](https://github.com/ClassIsland/ClassIsland-net6) - ClassIsland .NET6 移植版（适用于 Windows 7）
 - [classisland-docs-next](https://github.com/ClassIsland/classisland-docs-next) - 应用本体的在线文档
 - [PluginIndex](https://github.com/ClassIsland/PluginIndex) - 插件索引
 - [ExamplePlugins](https://github.com/ClassIsland/ExamplePlugins) - 示例插件代码
